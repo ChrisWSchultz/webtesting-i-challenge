@@ -65,3 +65,5 @@ typings/
 
 # Mac cruft
 .DS_Store
+
+.idea
